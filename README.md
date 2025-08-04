@@ -5,6 +5,19 @@
 <h3 align="center">ISE Undergraduate | MERN Stack Enthusiast | Aspiring Business Analyst & Project Manager</h3>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
+
+<!-- Profile Overview -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif">
 
 <p align="left">
