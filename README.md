@@ -18,7 +18,7 @@
 
 - 💬 Ask me about <em>MongoDB, Express, React, Node.js, BA workflows, and PM tools</em>
 
-- 📫 How to reach me: <a href="mailto:ayani.budara@gmail.com">ayani.budara@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:ayani.herath@gmail.com">ayani.herath@gmail.com</a>
 
 - ⚡ Fun fact: <em>I love simplifying complex problems through business analysis and tech!</em>
 
@@ -42,7 +42,7 @@
   <a href="https://linkedin.com/in/ayani-budara-herath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ayani.budara@gmail.com" target="_blank">
+  <a href="mailto:ayani.herath@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
